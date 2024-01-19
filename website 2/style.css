@@ -1,0 +1,12 @@
+body {
+  background-image: url('gar.jpg'); 
+  background-color: #F2D2BD;       
+  background-position: center;     
+  background-size: cover;          
+  color: #3da833;                  
+  font-family: 'Poppins', sans-serif; 
+}
+
+h1, h2, h3 {
+  font-family: 'Playfair Display', serif; 
+}

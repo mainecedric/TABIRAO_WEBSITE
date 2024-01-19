@@ -1,0 +1,64 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.tagline {
+  font-size: 16px;
+}
+
+main {
+  padding: 20px;
+}
+
+#skill-badges {
+  margin-bottom: 50px;
+}
+
+.badge-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.badge {
+  margin: 10px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.badge img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 10px;
+}
+
+#basketball {
+  display: flex;
+  justify-content: space-between;
+}
+
+.half-width {
+  width: 48%;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  background-color: #eee;
+  padding: 10px;
+}
+
+
+
+  
